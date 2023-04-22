@@ -1,4 +1,4 @@
-
+//Iván De La Fuente
 package ar.com.system2023.mundopc;
 
 public class Computadora {
@@ -75,3 +75,4 @@ public class Computadora {
 }
 
 }
+//Iván De La Fuente
