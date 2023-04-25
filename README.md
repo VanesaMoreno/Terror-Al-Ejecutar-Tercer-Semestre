@@ -2,5 +2,6 @@
 
 Integrantes:
 Iván De La Fuente
+Ramiro Michat
 
-//Sigan añadiendose...
+// Sigan añadiéndose...
